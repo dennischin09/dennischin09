@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dennischin09
-- 🌱 I’m currently learning if I can be a data science or data analyst.
+- 🌱 I’m currently learning if I can be a data scientist or data analyst.
 - Will try to post some of my decent works here =)))
 
 <!---
